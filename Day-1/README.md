@@ -6,8 +6,10 @@ Today marks the beginning of my AI/ML learning journey. Alongside solving daily 
 
 ### Problem Solving
 
-* Completed the GeeksforGeeks Problem of the Day (POTD).
-* Solved LeetCode problems to improve logical thinking and coding skills.
+* ✅ Completed today's GeeksforGeeks POTD: **Max Subarray Sum by Removing At Most One Element**.
+* 🔗 **Solution PDF:** [View Solution](https://github.com/Pavanateja2007-aiml/GFG-POTD/blob/main/Max%20Subarray%20Sum%20by%20Removing%20At%20Most%20One%20_%20Practice%20_%20GeeksforGeeks.pdf)
+* ✅ Solved LeetCode problems to strengthen data structures, algorithms, and logical reasoning skills.
+
 * Practiced analyzing problems and developing efficient solutions.
 
 ### Python Fundamentals
